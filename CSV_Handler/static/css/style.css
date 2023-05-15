@@ -1,0 +1,10 @@
+@charset "utf8";
+/* css document */
+
+.container{
+    bottom: 100px;
+    color: blue;
+    display: flex!important;
+    align-items: flex-start;
+    justify-content: space-around;
+}
